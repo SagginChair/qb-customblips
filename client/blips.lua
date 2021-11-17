@@ -3,7 +3,6 @@
 
 local blips = {
   {title="Vineyard", colour=58 , id=615,x = -1928.9, y = 2048.9, z = 0},
-  {title="Crafting Workbench", colour=2 , id=566,x = -116.93, y = -603.25, z = 0},
   {title="Oxy Delivery", colour=2 , id=403,x = 69.0, y = -1570.05, z = 0},
   {title="", colour=83 , id=66,x = 908.53, y = -1589.17, z = 0},
   {title="", colour=43 , id=66,x = -642.8, y = -1227.65, z = 0},
