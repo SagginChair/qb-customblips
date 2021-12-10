@@ -3,7 +3,6 @@
 
 local blips = {
   {title="Oxy Delivery", colour=2 , id=403,x = 69.0, y = -1570.05, z = 0},
-  {title="Boostin", colour=30 , id=620,x = 485.36, y = -3383.1, z = 0},
   {title="Weed Depot", colour=62 , id=140,x = -1172.088, y = -1571.833, z = 0},
   {title="Car Rentals", colour=70 , id=290,x = 181.19, y = -1010.28, z = 0},
   {title="Strip Club", colour=61 , id=121,x = 126.87, y = -1297.25, z = 0},
