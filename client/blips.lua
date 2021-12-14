@@ -14,6 +14,7 @@ local blips = {
   {title="", colour=62 , id=66,x = -1359.33, y = -759.85, z = 0},
   {title="Mine Shaft", colour=31 , id=618,x = -597.11, y = 2091.39, z = 0},
   {title="City Hall", colour=15 , id=304,x = -544.65, y = -204.7, z = 0},
+  {title="Garbage Job", colour=22 , id=318,x = -341.06, y = -1562.07, z = 0},
  }
  
  -- To add additional function to the below blip display, you can add natives to change/add/remove various things, just go here (https://docs.fivem.net/natives/) and search 'SetBlip' and it will give you a list. Example: https://docs.fivem.net/natives/?_0xB14552383D39CE3E
