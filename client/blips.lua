@@ -12,7 +12,7 @@ local blips = {
   {title="", colour=62 , id=66,x = -278.22, y = 2205.6, z = 0},
   {title="", colour=62 , id=66,x = 4520.26, y = -4515.44, z = 0},
   {title="", colour=62 , id=66,x = -1359.33, y = -759.85, z = 0},
-  {title="Mine Shaft", colour=31 , id=618,x = -597.11, y = 2091.39, z = 0},
+  {title="Mine", colour=31 , id=618,x = 2831.76, y = 2799.67, z = 0},
   {title="City Hall", colour=15 , id=304,x = -544.65, y = -204.7, z = 0},
   {title="Garbage Job", colour=22 , id=318,x = -341.06, y = -1562.07, z = 0},
  }
