@@ -9,7 +9,7 @@ local blips = {
   {title="", colour=62 , id=66,x = 363.37, y = 6482.18, z = 0},
   {title="", colour=62 , id=66,x = 3479.65, y = 3647.15, z = 0},
   {title="", colour=62 , id=66,x = -278.22, y = 2205.6, z = 0},
-  {title="", colour=62 , id=66,x = 4520.26, y = -4515.44, z = 0},
+  -- {title="", colour=62 , id=66,x = 4520.26, y = -4515.44, z = 0},
   {title="", colour=62 , id=66,x = -1359.33, y = -759.85, z = 0},
   {title="", colour=62 , id=66,x = 306.33, y = 4294.56, z = 0},
   {title="", colour=62 , id=66,x = 5329.91, y = -5270.61, z = 0},
